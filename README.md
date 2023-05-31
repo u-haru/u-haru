@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student in NITMC, administrator on [u-haru.com](https://u-haru.com/).  
+I'm a engineer, and administrator on [u-haru.com](https://u-haru.com/).  
 I write code with: Golang / Python / C / HTML / CSS / JavaScript
 
 ## 🏆 Github Profile Trophy
